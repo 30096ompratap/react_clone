@@ -1,0 +1,34 @@
+.header1{
+    display:flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+.header2{
+    display:flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+}
+
+.header  a{
+    text-decoration:none;
+    color:black;
+}
+.left-option{
+
+    display: flex;
+    gap: 40px;
+    margin-left: 15%;
+}
+.right-option{
+    display:flex;
+    gap: 40px;
+    margin-right: 15%;
+}
+
+.logo{
+    width: 180px;
+    
+}
+.vline{
+    border-left: solid 1px black;
+}
